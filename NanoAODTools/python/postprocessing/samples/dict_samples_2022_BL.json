@@ -1,0 +1,36 @@
+{
+  "TprimeToTZ_1200_2022": {
+    "TprimeToTZ_1200_2022": {
+      "strings": [
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_7.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_3.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_6.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_11.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_8.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_9.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_0.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_1.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_4.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_2.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_10.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_12.root",
+        "root://cms-xrd-global.cern.ch//store/user/bargient/Run3Analysis_Tprime/TprimeToTZ_1200_2022/20250314_125932/tree_hadd_5.root"
+      ],
+      "ntot": [
+        4344,
+        1448,
+        724,
+        2172,
+        65884,
+        724,
+        724,
+        724,
+        3292,
+        2896,
+        3620,
+        724,
+        724
+      ]
+    }
+  }
+}
